@@ -1,0 +1,5 @@
+{
+  "materials": {"year1":{"sem1":{},"sem2":{}},"year2":{"sem1":{},"sem2":{}},"year3":{"sem1":{},"sem2":{}},"year4":{"sem1":{},"sem2":{}}},
+  "assignments": {"year1":{"sem1":{},"sem2":{}},"year2":{"sem1":{},"sem2":{}},"year3":{"sem1":{},"sem2":{}},"year4":{"sem1":{},"sem2":{}}},
+  "others": {"year1":{"sem1":{},"sem2":{}},"year2":{"sem1":{},"sem2":{}},"year3":{"sem1":{},"sem2":{}},"year4":{"sem1":{},"sem2":{}}}
+}
